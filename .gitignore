@@ -1,0 +1,7 @@
+node_modules
+package-lock.json
+config.json
+settings.py
+private.py
+passwords.py
+func_funcionals.py
